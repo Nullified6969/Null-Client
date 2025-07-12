@@ -1,2 +1,2 @@
 # Null-Client
-Minecraft client for anarchy!
+Minecraft fabric client for anarchy!
